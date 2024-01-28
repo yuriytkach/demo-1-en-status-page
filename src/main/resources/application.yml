@@ -1,0 +1,8 @@
+quarkus:
+  rest-client:
+    geoip-api:
+      url: http://ip-api.com
+    reverse-geocode-api:
+      url: https://api.bigdatacloud.net
+    weather-api:
+      url: https://api.open-meteo.com
